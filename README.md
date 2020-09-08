@@ -12,8 +12,8 @@ Load            33,26
 DomConentLoad   21,11
 Load            21,12
 4
-DomConentLoad   
-Load            
+DomConentLoad   7,47
+Load            17,96
 5
 DomConentLoad   
 Load            
