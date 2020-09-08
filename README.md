@@ -1,18 +1,19 @@
 # keiko-corp
 The greatest company ever created
 
-1 Test
-DomConentLoad   37,97s
-Load            45s
-2 Test
+ TEST (segundos)
+1
+DomConentLoad   37,97
+Load            45
+2
+DomConentLoad   23,34
+Load            33,26
+3
 DomConentLoad   
 Load            
-3 Test
+4
 DomConentLoad   
 Load            
-4 Test
-DomConentLoad   
-Load            
-5 Test
+5
 DomConentLoad   
 Load            
